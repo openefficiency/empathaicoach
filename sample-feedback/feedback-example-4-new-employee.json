@@ -1,0 +1,112 @@
+{
+  "employee": {
+    "name": "Jordan Lee",
+    "role": "UX Designer",
+    "department": "Design",
+    "tenure": "6 months"
+  },
+  "feedback_summary": {
+    "overall_rating": 3.5,
+    "total_responses": 8,
+    "response_breakdown": {
+      "manager": 1,
+      "peers": 5,
+      "cross_functional": 2
+    }
+  },
+  "strengths": [
+    {
+      "theme": "Design Skills & Creativity",
+      "frequency": 7,
+      "comments": [
+        "Jordan brings fresh, creative ideas to design discussions.",
+        "Their visual design work is polished and modern.",
+        "Strong understanding of current design trends and best practices.",
+        "Creates beautiful, detailed mockups in Figma.",
+        "Good eye for typography and visual hierarchy."
+      ]
+    },
+    {
+      "theme": "Eagerness to Learn",
+      "frequency": 6,
+      "comments": [
+        "Jordan is enthusiastic and eager to learn about our product and users.",
+        "Asks thoughtful questions and seeks feedback proactively.",
+        "Shows genuine interest in understanding the business context.",
+        "Open to feedback and willing to iterate on designs.",
+        "Takes initiative to learn new tools and techniques."
+      ]
+    },
+    {
+      "theme": "Collaboration",
+      "frequency": 5,
+      "comments": [
+        "Jordan is friendly and easy to work with.",
+        "Participates actively in design critiques.",
+        "Responsive to feedback and questions from the team."
+      ]
+    }
+  ],
+  "areas_for_improvement": [
+    {
+      "theme": "User Research & Validation",
+      "frequency": 6,
+      "comments": [
+        "Jordan tends to rely on assumptions rather than user research to inform designs.",
+        "Could benefit from conducting more user interviews and usability testing.",
+        "Sometimes designs for aesthetics over usability and user needs.",
+        "Would benefit from learning more about our user research process and tools.",
+        "Needs to validate design decisions with data and user feedback more consistently."
+      ]
+    },
+    {
+      "theme": "Systems Thinking & Consistency",
+      "frequency": 5,
+      "comments": [
+        "Jordan's designs sometimes deviate from our design system without clear rationale.",
+        "Could improve at thinking about how designs fit into the broader product experience.",
+        "Needs to consider edge cases and error states more thoroughly.",
+        "Would benefit from understanding technical constraints earlier in the design process.",
+        "Sometimes creates designs that are difficult to implement or maintain."
+      ]
+    },
+    {
+      "theme": "Communication & Presentation",
+      "frequency": 4,
+      "comments": [
+        "Jordan could be more confident when presenting designs to stakeholders.",
+        "Would benefit from articulating design rationale more clearly.",
+        "Sometimes struggles to defend design decisions when challenged.",
+        "Could improve at facilitating design workshops and collaborative sessions."
+      ]
+    },
+    {
+      "theme": "Time Management",
+      "frequency": 3,
+      "comments": [
+        "Jordan sometimes spends too much time perfecting details at the expense of iteration speed.",
+        "Could improve at estimating how long design tasks will take.",
+        "Would benefit from learning to prioritize and work more iteratively."
+      ]
+    }
+  ],
+  "specific_incidents": [
+    {
+      "type": "positive",
+      "description": "Jordan's redesign of the onboarding flow was visually impressive and received positive feedback from the team. The modern aesthetic aligned well with our brand refresh."
+    },
+    {
+      "type": "concern",
+      "description": "The onboarding redesign had to be significantly revised after engineering review because several interactions weren't technically feasible. Earlier collaboration with engineering would have prevented rework."
+    },
+    {
+      "type": "concern",
+      "description": "Jordan created custom components for a feature instead of using the design system, which created inconsistency and extra engineering work. When asked about it, they weren't aware of the existing components."
+    },
+    {
+      "type": "positive",
+      "description": "Jordan volunteered to help update our design system documentation, which was helpful for the team."
+    }
+  ],
+  "manager_notes": "Jordan is a talented designer with strong visual skills and a great attitude. As a newer team member, they're still learning our processes, users, and product. Key development areas: 1) Deepen understanding of our users through research and testing, 2) Learn and consistently apply our design system, 3) Collaborate earlier with engineering to understand constraints, 4) Build confidence in presenting and defending design decisions. Jordan has strong potential and is on a good trajectory. With focused mentorship in these areas, they should become a strong contributor to the team."
+}

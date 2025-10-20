@@ -1,0 +1,55 @@
+360° FEEDBACK REPORT
+Employee: Taylor Williams
+Role: Sales Manager
+Department: Sales
+Review Period: Q4 2024
+
+=== STRENGTHS ===
+
+Client Relationships (mentioned by 9 people):
+- "Taylor builds exceptional relationships with clients and has high customer satisfaction scores."
+- "Clients consistently praise Taylor's responsiveness and problem-solving abilities."
+- "Great at understanding client needs and finding solutions that work for everyone."
+- "Has turned around several at-risk accounts through strong relationship management."
+
+Sales Performance (mentioned by 8 people):
+- "Consistently exceeds quota and is one of our top performers."
+- "Taylor closed three major deals this quarter, including our largest enterprise contract."
+- "Strong negotiation skills and ability to navigate complex sales cycles."
+- "Great at identifying upsell and cross-sell opportunities."
+
+Team Collaboration (mentioned by 6 people):
+- "Taylor is always willing to help other team members with deals."
+- "Shares best practices and lessons learned openly with the team."
+- "Positive attitude that lifts team morale."
+
+=== AREAS FOR IMPROVEMENT ===
+
+Administrative Tasks & CRM Hygiene (mentioned by 7 people):
+- "Taylor often falls behind on updating Salesforce, making it hard to track pipeline accurately."
+- "Expense reports and administrative tasks are frequently submitted late."
+- "Inconsistent with logging client interactions and meeting notes."
+- "Would benefit from better organization and follow-through on non-selling activities."
+
+Internal Communication (mentioned by 5 people):
+- "Taylor sometimes makes commitments to clients without checking with delivery teams first."
+- "Could improve at keeping internal stakeholders informed about deal progress."
+- "Doesn't always attend team meetings or respond to internal requests promptly."
+- "Would benefit from better collaboration with marketing and product teams."
+
+Coaching & Development (mentioned by 4 people):
+- "As a manager, Taylor could provide more structured coaching to junior sales reps."
+- "Team members would benefit from more regular 1-on-1s and feedback."
+- "Could be more proactive in developing the skills of direct reports."
+
+Work-Life Balance (mentioned by 3 people):
+- "Taylor works extremely long hours and weekends, which may not be sustainable."
+- "Sometimes sends emails late at night, which can create pressure for others."
+- "Could benefit from better boundary-setting with clients."
+
+=== MANAGER SUMMARY ===
+
+Taylor is a high-performing sales manager with exceptional client relationship skills and consistent results. To continue growing into a senior leadership role, focus on: 1) Improving administrative discipline and CRM hygiene, 2) Strengthening internal communication and cross-functional collaboration, 3) Developing more structured coaching approach for direct reports, 4) Modeling sustainable work habits for the team.
+
+Overall Rating: 4.1/5.0
+Total Respondents: 14 (1 manager, 8 peers, 5 direct reports)

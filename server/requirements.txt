@@ -1,0 +1,7 @@
+# R2C2 Voice Coach Server Dependencies
+pipecat-ai[webrtc,daily,silero,google,local-smart-turn-v3,runner]>=0.0.90
+pipecatcloud>=0.2.6
+fastapi>=0.115.0
+uvicorn>=0.32.0
+aiosqlite>=0.20.0
+numpy>=1.26.0
