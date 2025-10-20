@@ -16,6 +16,11 @@ https://youtu.be/sM5E71fKzeA
 
 README file for deployment: https://github.com/openefficiency/empathaicoach/blob/main/README_Deployment.md
 
+Demo site : http://empathai.coach/
+( It's hosted in vercel, render. may be slow) <br>
+Need to give the sample 360. feedback for trying out the EmpathAI Coach working <br>
+Sample feedback of the employee are here https://github.com/openefficiency/empathaicoach/tree/main/sample-feedback  <br>
+Any of the feedback jsons can be used to test.
 
 
 ## **3\. Project workflow and tools**
