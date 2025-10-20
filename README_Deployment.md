@@ -94,14 +94,14 @@ cp env.example .env
 ```bash
 # Required API Keys
 DAILY_API_KEY=your_daily_api_key_here
-GOOGLE_API_KEY=your_google_gemini_api_key_here
+GOOGLE_API_KEY=
 
 # Database Configuration
 DATABASE_PATH=./database/r2c2_sessions.db
 
 # Optional: For local dev with a specific room
-DAILY_SAMPLE_ROOM_URL=https://yourdomain.daily.co/yourroom
-DAILY_SAMPLE_ROOM_TOKEN=your_room_token_if_required
+DAILY_SAMPLE_ROOM_URL=
+DAILY_SAMPLE_ROOM_TOKEN=
 
 # Server Configuration (defaults shown)
 API_PORT=7860
