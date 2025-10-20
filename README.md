@@ -14,6 +14,8 @@ The system detects emotional reactions in real-time and validates feelings _befo
 
 https://youtu.be/sM5E71fKzeA
 
+README file for deployment: https://github.com/openefficiency/empathaicoach/blob/main/README_Deployment.md
+
 
 
 ## **3\. Project workflow and tools**
