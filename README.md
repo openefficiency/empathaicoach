@@ -75,23 +75,23 @@ Pipecat TTS → User
 
 ### **Built from Scratch (100% New)**
 
-- **R2C2 State Machine Engine** (r2c2_engine.py)
+- **R2C2 State Machine Engine** 
   - 4-phase conversational state machine with automatic transition logic
   - Emotion detection algorithms analyzing 15+ linguistic markers
   - Phase-specific system prompt generation (4 distinct templates, ~500 words each)
   - Defensive reaction counter and validation tracking
   - Conversation transcript management with phase tagging
-- **Pipecat Integration** (main_with_state_machine.py)
+- **Pipecat Integration** 
   - Voice pipeline connecting Daily.co → Gemini → R2C2 state machine
   - Custom analyze_and_route processor for real-time emotion analysis
   - WebSocket broadcast system for UI updates
   - VAD configuration optimized for emotional conversation (0.8s pauses)
-- **Gemini Emotion Analyzer** (emotion_analyzer.py)
+- **Gemini Emotion Analyzer** 
   - Structured JSON prompt for emotion scoring (defensiveness, openness, curiosity)
   - Validation-needed flag detection
   - Fallback logic for JSON parsing errors
   - Real-time emotion detection (<500ms response time)
-- **Web Dashboard** (index.html + visualizations.js)
+- **Web Dashboard** 
   - Live transcript with speaker identification
   - Animated emotion meters (3 gauges: defensiveness, openness, curiosity)
   - 4-phase progress indicator with transition animations
@@ -99,25 +99,25 @@ Pipecat TTS → User
   - Action plan generator
   - Typewriter effect for transcript entries
   - Pulse animations on phase transitions
-- **Feedback Scenario Database** (feedback_scenarios.json)
+- **Feedback Scenario Database** 
   - 3 realistic 360-feedback scenarios:
     - Defensive Product Manager (communication gaps)
     - Growth-minded Engineering Lead (delegation issues)
     - Resistant Senior Designer (collaboration feedback)
   - Each with self-ratings, team ratings, positive/constructive themes, anonymous quotes
   - Expected defensiveness triggers for testing
-- **Advanced Prompt Templates** (prompts.py)
+- **Advanced Prompt Templates** 
   - 4 phase-specific system prompts (1,500+ words total)
   - Phase 2 defensive response library (8+ validation phrases)
   - SMART action plan template structure
   - Transition signal detection logic
   - Forbidden phrase detection for phase violations
-- **Response Validator** (response_validator.py)
+- **Response Validator** 
   - Enforces phase-specific conversation rules
   - Detects premature content sharing in Phase 2
   - Validates emotion validation when defensiveness detected
   - Action-orientation checker for Phase 4
-- **Demo Testing Suite** (test_demo.py)
+- **Demo Testing Suite**
   - Automated scenario testing with simulated user responses
   - 2 pre-built test flows (defensive vs. growth-minded personas)
   - Emotion score verification
@@ -129,8 +129,8 @@ Pipecat TTS → User
   - Business: B2B SaaS, \$50-200/employee/year, 10M+ managers TAM
   - Demo setup slide: <https://bit.ly/EmpathAI>
 - **Documentation**
-  - Hour-by-hour implementation guide (8.5 hours)
-  - Setup scripts (setup_daily.py, test_daily_connection.py)
+  - implementation guide 
+  - Setup scripts 
   - Emergency troubleshooting playbook
   - Pitch script (2 minutes)
   - Demo script (3 minutes with judge participation)
