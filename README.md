@@ -20,7 +20,9 @@ Demo site : http://empathai.coach/
 ( It's hosted in vercel, render. may be slow) <br>
 Need to give the sample 360. feedback for trying out the EmpathAI Coach working <br>
 Sample feedback of the employee are here https://github.com/openefficiency/empathaicoach/tree/main/sample-feedback  <br>
-Any of the feedback jsons can be used to test.
+Any of the feedback jsons can be used to test. <br>
+
+Note: if domain pointing has issues, try vercel URL directly https://client-opal-phi.vercel.app/
 
 
 ## **3\. Project workflow and tools**
