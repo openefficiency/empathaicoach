@@ -1,4 +1,4 @@
-# R2C2 Voice Coach
+# EmpathAI Coach
 
 empathaicoach
 
@@ -9,7 +9,7 @@ The world's first AI implementation of medical education's proven R2C2 feedback 
 
 ## Overview
 
-The R2C2 Voice Coach reduces defensiveness by 70% and increases development plan completion to 90% by creating a safe, non-judgmental space for employees to process feedback and develop actionable improvement plans.
+The EmpathAI Coach reduces defensiveness by 70% and increases development plan completion to 90% by creating a safe, non-judgmental space for employees to process feedback and develop actionable improvement plans.
 
 ### The R2C2 Framework
 
