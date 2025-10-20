@@ -1,0 +1,96 @@
+{
+  "employee": {
+    "name": "Alex Johnson",
+    "role": "Senior Software Engineer",
+    "department": "Engineering",
+    "tenure": "3 years"
+  },
+  "feedback_summary": {
+    "overall_rating": 3.8,
+    "total_responses": 12,
+    "response_breakdown": {
+      "manager": 1,
+      "peers": 8,
+      "direct_reports": 3
+    }
+  },
+  "strengths": [
+    {
+      "theme": "Technical Excellence",
+      "frequency": 10,
+      "comments": [
+        "Alex consistently delivers high-quality code and has deep expertise in our tech stack.",
+        "Their technical problem-solving skills are exceptional. They can debug complex issues quickly.",
+        "Alex's code reviews are thorough and educational. I learn something new every time.",
+        "They have a strong grasp of system architecture and make smart design decisions."
+      ]
+    },
+    {
+      "theme": "Mentorship & Knowledge Sharing",
+      "frequency": 7,
+      "comments": [
+        "Alex is always willing to help junior developers and explains concepts clearly.",
+        "They created excellent documentation for our new microservices architecture.",
+        "Alex runs great lunch-and-learn sessions that the whole team appreciates.",
+        "Very patient when answering questions, even when they're busy."
+      ]
+    },
+    {
+      "theme": "Reliability",
+      "frequency": 6,
+      "comments": [
+        "Alex consistently meets deadlines and delivers what they commit to.",
+        "I can always count on Alex to follow through on their commitments.",
+        "They're very dependable during on-call rotations and respond quickly to incidents."
+      ]
+    }
+  ],
+  "areas_for_improvement": [
+    {
+      "theme": "Communication & Collaboration",
+      "frequency": 8,
+      "comments": [
+        "Alex sometimes works in isolation and doesn't communicate progress until the last minute.",
+        "Would benefit from more proactive communication about blockers and challenges.",
+        "Sometimes dismisses ideas from less technical team members without fully considering them.",
+        "Can come across as impatient or condescending when explaining technical concepts to non-engineers.",
+        "Tends to make decisions independently without consulting the team first.",
+        "Could improve at giving constructive feedback to peers - sometimes too blunt."
+      ]
+    },
+    {
+      "theme": "Project Management & Planning",
+      "frequency": 5,
+      "comments": [
+        "Alex tends to underestimate task complexity, leading to missed deadlines on larger projects.",
+        "Could be better at breaking down large projects into smaller, manageable pieces.",
+        "Sometimes gets too focused on technical perfection at the expense of shipping on time.",
+        "Would benefit from more structured project planning and time management."
+      ]
+    },
+    {
+      "theme": "Adaptability to Change",
+      "frequency": 4,
+      "comments": [
+        "Alex can be resistant to new processes or tools, preferring familiar approaches.",
+        "Shows frustration when priorities shift or requirements change mid-project.",
+        "Could be more open-minded about alternative technical solutions suggested by others."
+      ]
+    }
+  ],
+  "specific_incidents": [
+    {
+      "type": "positive",
+      "description": "Led the migration to our new CI/CD pipeline, which reduced deployment time by 60%. Excellent technical leadership and documentation."
+    },
+    {
+      "type": "concern",
+      "description": "During the Q3 planning meeting, Alex dismissed the product team's feature requests as 'technically naive' without exploring feasibility. This created tension between teams."
+    },
+    {
+      "type": "concern",
+      "description": "The authentication refactor project was delivered 3 weeks late because Alex insisted on rewriting components that were working adequately, without discussing the scope change with the team."
+    }
+  ],
+  "manager_notes": "Alex is a highly skilled engineer with strong technical capabilities. However, to progress to a Staff Engineer role, they need to develop stronger collaboration and communication skills, particularly when working with cross-functional teams. Focus areas: proactive communication, empathy in technical discussions, and balancing technical excellence with pragmatic delivery."
+}

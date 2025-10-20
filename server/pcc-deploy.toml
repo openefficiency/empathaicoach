@@ -1,0 +1,66 @@
+# ============================================
+# R2C2 Voice Coach - Pipecat Cloud Deployment Configuration
+# ============================================
+
+# Agent Configuration
+agent_name = "r2c2-voice-coach"
+image = "techkarthik2025/r2c2-voice-coach:0.1"
+secret_set = "r2c2-coach"
+
+# Agent Profile
+# agent-2x: 2 vCPU, 4GB RAM - Recommended for R2C2 Voice Coach
+# Provides sufficient resources for:
+# - Real-time audio processing
+# - Emotion detection
+# - R2C2 engine state management
+# - Database operations
+agent_profile = "agent-2x"
+
+# Audio Enhancement
+# Enable Krisp noise cancellation for better audio quality
+enable_krisp = true
+
+# Scaling Configuration
+[scaling]
+	# Minimum number of agents to keep running
+	# Set to 1 to ensure immediate availability
+	min_agents = 1
+	
+	# Maximum number of agents (optional)
+	# Uncomment to set a cap on scaling
+	# max_agents = 10
+	
+	# Scale-up threshold (optional)
+	# Number of queued sessions before scaling up
+	# scale_up_threshold = 3
+	
+	# Scale-down delay (optional)
+	# Time in seconds before scaling down idle agents
+	# scale_down_delay = 300
+
+# Resource Limits (optional)
+# Uncomment to set custom resource limits
+# [resources]
+# 	cpu = "2000m"
+# 	memory = "4Gi"
+
+# Health Check Configuration (optional)
+# [health_check]
+# 	path = "/health"
+# 	interval = 30
+# 	timeout = 10
+# 	retries = 3
+
+# Environment Variables
+# Note: All environment variables including sensitive values should be stored in secrets
+# Use: python3 -m pipecatcloud secrets set r2c2-coach --file .env
+# The .env file contains all necessary configuration including:
+# - DAILY_API_KEY
+# - GOOGLE_API_KEY
+# - DATABASE_PATH
+# - LOG_LEVEL
+# - API_PORT
+# - API_HOST
+# - R2C2 phase durations
+# - Emotion detection settings
+# - Session configuration

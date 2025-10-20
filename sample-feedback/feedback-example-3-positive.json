@@ -1,0 +1,117 @@
+{
+  "employee": {
+    "name": "Marcus Chen",
+    "role": "Engineering Manager",
+    "department": "Engineering",
+    "tenure": "2 years"
+  },
+  "feedback_summary": {
+    "overall_rating": 4.6,
+    "total_responses": 18,
+    "response_breakdown": {
+      "manager": 1,
+      "peers": 7,
+      "direct_reports": 10
+    }
+  },
+  "strengths": [
+    {
+      "theme": "People Leadership & Development",
+      "frequency": 16,
+      "comments": [
+        "Marcus is an exceptional manager who genuinely cares about his team's growth and wellbeing.",
+        "He provides regular, constructive feedback and creates clear development plans for each team member.",
+        "Marcus has helped me grow more in the past year than in my previous three years combined.",
+        "He's great at identifying people's strengths and giving them opportunities to shine.",
+        "Creates a psychologically safe environment where people feel comfortable taking risks.",
+        "Always makes time for 1-on-1s and comes prepared with thoughtful questions.",
+        "Advocates strongly for his team members' promotions and compensation.",
+        "Excellent at conflict resolution - helps team members work through disagreements constructively."
+      ]
+    },
+    {
+      "theme": "Communication & Transparency",
+      "frequency": 14,
+      "comments": [
+        "Marcus is extremely transparent about company decisions and their rationale.",
+        "He communicates context effectively, helping the team understand the 'why' behind decisions.",
+        "Provides clear, actionable feedback that's easy to act on.",
+        "Great at translating business requirements into technical terms and vice versa.",
+        "Keeps the team informed about organizational changes and strategic direction.",
+        "His team meetings are well-structured and productive."
+      ]
+    },
+    {
+      "theme": "Technical Leadership",
+      "frequency": 11,
+      "comments": [
+        "Marcus maintains strong technical credibility and can dive deep when needed.",
+        "He makes sound technical decisions and helps the team navigate complex tradeoffs.",
+        "Still contributes code occasionally and understands our technical challenges firsthand.",
+        "Provides valuable technical mentorship and code review feedback.",
+        "Balances technical excellence with pragmatic delivery."
+      ]
+    },
+    {
+      "theme": "Strategic Thinking & Execution",
+      "frequency": 10,
+      "comments": [
+        "Marcus has a clear vision for the team and communicates it effectively.",
+        "He's excellent at prioritization and helps the team focus on high-impact work.",
+        "Balances short-term delivery with long-term technical investments.",
+        "Great at managing up and securing resources for the team.",
+        "His quarterly planning process is thorough and collaborative."
+      ]
+    }
+  ],
+  "areas_for_improvement": [
+    {
+      "theme": "Delegation & Letting Go",
+      "frequency": 6,
+      "comments": [
+        "Marcus sometimes gets too involved in technical details instead of delegating to the team.",
+        "Could empower senior engineers more to make decisions independently.",
+        "Occasionally jumps in to solve problems that the team could handle on their own.",
+        "Would benefit from trusting the team more with critical decisions."
+      ]
+    },
+    {
+      "theme": "Work-Life Balance",
+      "frequency": 5,
+      "comments": [
+        "Marcus works very long hours and sometimes responds to messages late at night, which can create pressure for others to do the same.",
+        "Could model better work-life balance for the team.",
+        "Takes on too much himself instead of distributing work more evenly.",
+        "Rarely takes vacation and seems to struggle with disconnecting."
+      ]
+    },
+    {
+      "theme": "Cross-Team Collaboration",
+      "frequency": 3,
+      "comments": [
+        "Could be more proactive in building relationships with other engineering teams.",
+        "Sometimes focuses too much on his own team's goals at the expense of broader org objectives.",
+        "Would benefit from more collaboration with product and design leadership."
+      ]
+    }
+  ],
+  "specific_incidents": [
+    {
+      "type": "positive",
+      "description": "When two team members had a significant disagreement about technical approach, Marcus facilitated a productive discussion that resulted in a better solution than either original proposal. Both engineers felt heard and respected."
+    },
+    {
+      "type": "positive",
+      "description": "Marcus successfully advocated for three team members to receive promotions this cycle, with well-documented cases that made it easy for leadership to approve."
+    },
+    {
+      "type": "positive",
+      "description": "During a major production incident, Marcus stayed calm, coordinated the response effectively, and conducted a blameless postmortem that led to meaningful process improvements."
+    },
+    {
+      "type": "concern",
+      "description": "During the Q4 planning cycle, Marcus rewrote significant portions of the technical design doc himself rather than coaching the senior engineer to improve it. This was a missed development opportunity."
+    }
+  ],
+  "manager_notes": "Marcus is performing exceptionally well as an engineering manager. His team has high morale, low attrition, and consistently delivers high-quality work. He's ready for increased scope and responsibility. Development focus areas: 1) Delegate more to develop senior engineers' leadership skills, 2) Model sustainable work habits, 3) Build stronger relationships across the broader engineering organization. Consider for promotion to Senior Engineering Manager within the next 6-12 months if he continues this trajectory."
+}

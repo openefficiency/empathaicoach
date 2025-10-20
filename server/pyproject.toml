@@ -1,0 +1,23 @@
+[project]
+name = "r2c2-voice-coach"
+version = "0.1.0"
+description = "R2C2 Voice Coach - AI-powered feedback processing using the R2C2 framework"
+requires-python = ">=3.10"
+dependencies = [
+    "pipecat-ai[webrtc,daily,silero,google,local-smart-turn-v3,runner]>=0.0.90",
+    "pipecatcloud>=0.2.6",
+    "fastapi>=0.115.0",
+    "uvicorn>=0.32.0",
+    "aiosqlite>=0.20.0",
+    "numpy>=1.26.0",
+]
+
+[dependency-groups]
+dev = [
+    "ruff~=0.12.1",
+]
+
+[tool.ruff]
+line-length = 100
+[tool.ruff.lint]
+select = ["I"]

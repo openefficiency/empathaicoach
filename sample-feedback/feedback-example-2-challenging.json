@@ -1,0 +1,106 @@
+{
+  "employee": {
+    "name": "Sarah Martinez",
+    "role": "Product Manager",
+    "department": "Product",
+    "tenure": "18 months"
+  },
+  "feedback_summary": {
+    "overall_rating": 2.9,
+    "total_responses": 15,
+    "response_breakdown": {
+      "manager": 1,
+      "peers": 9,
+      "direct_reports": 0,
+      "cross_functional": 5
+    }
+  },
+  "strengths": [
+    {
+      "theme": "Strategic Thinking",
+      "frequency": 8,
+      "comments": [
+        "Sarah has a strong vision for the product and understands market trends well.",
+        "Her competitive analysis and market research are always thorough and insightful.",
+        "She thinks strategically about long-term product direction.",
+        "Good at identifying opportunities and potential product gaps."
+      ]
+    },
+    {
+      "theme": "Customer Focus",
+      "frequency": 6,
+      "comments": [
+        "Sarah is passionate about solving customer problems and advocates for user needs.",
+        "She conducts thorough user research and brings valuable customer insights.",
+        "Always references customer data when making product decisions."
+      ]
+    },
+    {
+      "theme": "Work Ethic",
+      "frequency": 5,
+      "comments": [
+        "Sarah is dedicated and puts in long hours to get things done.",
+        "She's very responsive to messages and emails, even outside work hours.",
+        "Shows strong commitment to the product's success."
+      ]
+    }
+  ],
+  "areas_for_improvement": [
+    {
+      "theme": "Stakeholder Management & Communication",
+      "frequency": 12,
+      "comments": [
+        "Sarah frequently changes priorities without clear communication, causing confusion and wasted effort.",
+        "Doesn't involve engineering early enough in the planning process, leading to unrealistic timelines.",
+        "Often makes commitments to stakeholders without checking with the team first.",
+        "Communication style can be abrasive and dismissive of concerns raised by the team.",
+        "Sends conflicting messages to different stakeholders about priorities and timelines.",
+        "Doesn't listen well in meetings - often interrupts or talks over others.",
+        "Fails to provide context when requesting work, making it hard to understand the 'why'.",
+        "Rarely acknowledges team contributions or says thank you."
+      ]
+    },
+    {
+      "theme": "Execution & Follow-Through",
+      "frequency": 9,
+      "comments": [
+        "Sarah starts many initiatives but doesn't follow through to completion.",
+        "Requirements are often vague or incomplete, requiring multiple rounds of clarification.",
+        "Doesn't track or measure success of launched features - moves on to next thing too quickly.",
+        "Poor at managing dependencies and coordinating across teams.",
+        "Frequently misses deadlines for deliverables like PRDs and roadmap updates.",
+        "Doesn't maintain product documentation or keep it up to date."
+      ]
+    },
+    {
+      "theme": "Emotional Regulation & Professionalism",
+      "frequency": 7,
+      "comments": [
+        "Sarah can become defensive when receiving feedback or pushback on ideas.",
+        "Shows visible frustration in meetings when things don't go her way.",
+        "Has sent heated emails that created unnecessary conflict.",
+        "Takes disagreements personally rather than focusing on the issues.",
+        "Can be passive-aggressive when she doesn't get her way."
+      ]
+    }
+  ],
+  "specific_incidents": [
+    {
+      "type": "concern",
+      "description": "During sprint planning, Sarah insisted on adding three new features mid-sprint without removing anything, despite engineering explaining capacity constraints. When the team pushed back, she escalated to the VP, creating tension."
+    },
+    {
+      "type": "concern",
+      "description": "Sarah committed to a customer that a feature would be ready by end of Q2 without consulting the engineering team. When informed it would take 6 weeks longer, she blamed engineering for 'moving too slowly' in a company-wide meeting."
+    },
+    {
+      "type": "concern",
+      "description": "After receiving feedback about unclear requirements, Sarah sent a lengthy email defending her approach and questioning the team's competence. This damaged trust and required manager intervention."
+    },
+    {
+      "type": "positive",
+      "description": "Sarah's market analysis for the new enterprise features was excellent and helped secure buy-in from leadership for a major strategic initiative."
+    }
+  ],
+  "manager_notes": "Sarah has strong product instincts and strategic thinking abilities, but significant concerns about collaboration, communication, and emotional intelligence. Multiple team members have expressed frustration working with her. This feedback represents a critical development opportunity. Sarah needs to focus on: 1) Building trust through consistent, transparent communication, 2) Involving stakeholders earlier in decision-making, 3) Managing emotions and responding professionally to feedback, 4) Improving follow-through and execution. Without improvement in these areas, her effectiveness as a PM will be limited."
+}
